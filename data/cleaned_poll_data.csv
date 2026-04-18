@@ -1,0 +1,11 @@
+Timestamp,Age Group,Gender,Preferred Tool,Satisfaction (1-5),Feedback,Date,Feedback Length
+2024-04-01 10:00:00,18-24,Male,Python,5,Very useful and easy,2024-04-01,20
+2024-04-01 10:10:00,25-34,Female,Excel,4,Helpful for analysis,2024-04-01,20
+2024-04-01 10:20:00,18-24,Female,Python,5,Excellent features,2024-04-01,18
+2024-04-01 10:30:00,35-44,Male,R,3,Needs improvement,2024-04-01,17
+2024-04-01 10:40:00,25-34,Male,Python,4,Good for visualization,2024-04-01,22
+2024-04-01 10:50:00,18-24,Female,Excel,4,User friendly,2024-04-01,13
+2024-04-01 11:00:00,35-44,Female,Python,5,Great for data work,2024-04-01,19
+2024-04-01 11:10:00,25-34,Male,R,3,Can improve usability,2024-04-01,21
+2024-04-01 11:20:00,18-24,Male,Python,5,Powerful features,2024-04-01,17
+2024-04-01 11:30:00,25-34,Female,Excel,4,Good reporting,2024-04-01,14
